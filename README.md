@@ -4,4 +4,4 @@ Atividades 27/09
 2-atividade temperatura
 3-atividade calcular notas
 4-impar ou par
-5-troca de numero
+5-inverter valores
